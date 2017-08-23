@@ -1,0 +1,19 @@
+{
+  "name": "@samsystems/hapi-plivo",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {
+    "plivo": "^0.4.1"
+  },
+  "author": "Carlos Osiel Rojas Velázquez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlososiel/hapi-plivo-integration"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "plivo"
+  ]
+}
